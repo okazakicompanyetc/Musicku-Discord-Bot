@@ -13,7 +13,7 @@
 
 Bot musik Discord lintas platform dengan antarmuka yang bersih, dan mudah diatur dan dijalankan sendiri!
 
-[![Pengaturan](http://i.imgur.com/VvXYp5j.png)](https://jmusicbot.com/setup)
+[![Pengaturan](http://i.imgur.com/VvXYp5j.png)]()
 
 ## Fitur
   * Mudah dijalankan (pastikan Java diinstal, dan jalankan!)
@@ -51,10 +51,10 @@ JMusicBot mendukung semua sumber dan format yang didukung oleh [lavaplayer](http
 ![Memuat Contoh...](https://i.imgur.com/kVtTKvS.gif)
 
 ## Mempersiapkan
-Silakan lihat [Halaman Pengaturan](https://jmusicbot.com/setup) untuk menjalankan bot ini sendiri!
+Silakan lihat [Halaman Pengaturan]() untuk menjalankan bot ini sendiri!
 
 ## Pertanyaan/Saran/Laporan Bug
-**Harap baca [Daftar Masalah](https://github.com/jagrosh/MusicBot/issues) sebelum menyarankan fitur**. Jika Anda memiliki pertanyaan, memerlukan bantuan pemecahan masalah, atau ingin bertukar pikiran tentang fitur baru, silakan mulai [Diskusi](https://github.com/jagrosh/MusicBot/discussions). Jika Anda ingin menyarankan fitur atau melaporkan bug yang dapat direproduksi, buka [Masalah](https://github.com/jagrosh/MusicBot/issues) di repositori ini. Jika Anda menyukai bot ini, pastikan untuk menambahkan bintang ke perpustakaan yang memungkinkan hal ini: [**JDA**](https://github.com/DV8FromTheWorld/JDA) dan [**lavaplayer**](https ://github.com/sedmeluq/lavaplayer)!
+**Harap baca [Daftar Masalah]() sebelum menyarankan fitur**. Jika Anda memiliki pertanyaan, memerlukan bantuan pemecahan masalah, atau ingin bertukar pikiran tentang fitur baru, silakan mulai [Diskusi](). Jika Anda ingin menyarankan fitur atau melaporkan bug yang dapat direproduksi, buka [Masalah]() di repositori ini. Jika Anda menyukai bot ini, pastikan untuk menambahkan bintang ke perpustakaan yang memungkinkan hal ini: [**JDA**](https://github.com/DV8FromTheWorld/JDA) dan [**lavaplayer**](https ://github.com/sedmeluq/lavaplayer)!
 
 ## Mengedit
 Bot ini (dan kode sumbernya di sini) mungkin tidak mudah diedit untuk programmer yang tidak berpengalaman. Tujuan utama dari memiliki sumber publik adalah untuk menunjukkan kemampuan perpustakaan, untuk memungkinkan orang lain memahami cara kerja bot, dan untuk memungkinkan mereka yang memiliki pengetahuan tentang java, JDA, dan pengembangan bot Discord untuk berkontribusi. Ada banyak persyaratan dan dependensi yang diperlukan untuk mengedit dan mengompilasinya, dan tidak akan ada dukungan yang disediakan bagi orang yang ingin membuat perubahan sendiri. Sebagai gantinya, pertimbangkan untuk membuat permintaan fitur (lihat bagian di atas). Jika Anda memilih untuk mengedit, lakukan sesuai dengan Lisensi Apache 2.0.
