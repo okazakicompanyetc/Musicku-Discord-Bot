@@ -11,50 +11,50 @@
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)](https://ci.appveyor.com/project/jagrosh/musicbot/branch/master)
 [![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)](https://www.codefactor.io/repository/github/jagrosh/musicbot)
 
-A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
+Bot musik Discord lintas platform dengan antarmuka yang bersih, dan mudah diatur dan dijalankan sendiri!
 
-[![Setup](http://i.imgur.com/VvXYp5j.png)](https://jmusicbot.com/setup)
+[![Pengaturan](http://i.imgur.com/VvXYp5j.png)](https://jmusicbot.com/setup)
 
-## Features
-  * Easy to run (just make sure Java is installed, and run!)
-  * Fast loading of songs
-  * No external keys needed (besides a Discord Bot token)
-  * Smooth playback
-  * Server-specific setup for the "DJ" role that can moderate the music
-  * Clean and beautiful menus
-  * Supports many sites, including Youtube, Soundcloud, and more
-  * Supports many online radio/streams
-  * Supports local files
-  * Playlist support (both web/youtube, and local)
+## Fitur
+  * Mudah dijalankan (pastikan Java diinstal, dan jalankan!)
+  * Pemuatan lagu yang cepat
+  * Tidak diperlukan kunci eksternal (selain token Bot Discord)
+  * Pemutaran lancar
+  * Pengaturan khusus server untuk peran "DJ" yang dapat memoderasi musik
+  * Menu bersih dan indah
+  * Mendukung banyak situs, termasuk Youtube, Soundcloud, dan banyak lagi
+  * Mendukung banyak radio/aliran online
+  * Mendukung file lokal
+  * Dukungan daftar putar (baik web/youtube, dan lokal)
 
-## Supported sources and formats
-JMusicBot supports all sources and formats supported by [lavaplayer](https://github.com/sedmelluq/lavaplayer#supported-formats):
-### Sources
-  * YouTube
+## Sumber dan format yang didukung
+JMusicBot mendukung semua sumber dan format yang didukung oleh [lavaplayer](https://github.com/sedmeluq/lavaplayer#supported-formats):
+### Sumber
+  * Youtube
   * SoundCloud
-  * Bandcamp
+  * Perkemahan Band
   * Vimeo
-  * Twitch streams
-  * Local files
-  * HTTP URLs
-### Formats
-  * MP3
+  * Aliran berkedut
+  * File lokal
+  * URL HTTP
+### Format
+  *MP3
   * FLAC
   * WAV
-  * Matroska/WebM (AAC, Opus or Vorbis codecs)
-  * MP4/M4A (AAC codec)
-  * OGG streams (Opus, Vorbis and FLAC codecs)
-  * AAC streams
-  * Stream playlists (M3U and PLS)
+  * Matroska/WebM (codec AAC, Opus atau Vorbis)
+  * MP4/M4A (kodek AAC)
+  * Aliran OGG (codec Opus, Vorbis, dan FLAC)
+  * Aliran AAC
+  * Streaming daftar putar (M3U dan PLS)
 
-## Example
-![Loading Example...](https://i.imgur.com/kVtTKvS.gif)
+## Contoh
+![Memuat Contoh...](https://i.imgur.com/kVtTKvS.gif)
 
-## Setup
-Please see the [Setup Page](https://jmusicbot.com/setup) to run this bot yourself!
+## Mempersiapkan
+Silakan lihat [Halaman Pengaturan](https://jmusicbot.com/setup) untuk menjalankan bot ini sendiri!
 
-## Questions/Suggestions/Bug Reports
-**Please read the [Issues List](https://github.com/jagrosh/MusicBot/issues) before suggesting a feature**. If you have a question, need troubleshooting help, or want to brainstorm a new feature, please start a [Discussion](https://github.com/jagrosh/MusicBot/discussions). If you'd like to suggest a feature or report a reproducible bug, please open an [Issue](https://github.com/jagrosh/MusicBot/issues) on this repository. If you like this bot, be sure to add a star to the libraries that make this possible: [**JDA**](https://github.com/DV8FromTheWorld/JDA) and [**lavaplayer**](https://github.com/sedmelluq/lavaplayer)!
+## Pertanyaan/Saran/Laporan Bug
+**Harap baca [Daftar Masalah](https://github.com/jagrosh/MusicBot/issues) sebelum menyarankan fitur**. Jika Anda memiliki pertanyaan, memerlukan bantuan pemecahan masalah, atau ingin bertukar pikiran tentang fitur baru, silakan mulai [Diskusi](https://github.com/jagrosh/MusicBot/discussions). Jika Anda ingin menyarankan fitur atau melaporkan bug yang dapat direproduksi, buka [Masalah](https://github.com/jagrosh/MusicBot/issues) di repositori ini. Jika Anda menyukai bot ini, pastikan untuk menambahkan bintang ke perpustakaan yang memungkinkan hal ini: [**JDA**](https://github.com/DV8FromTheWorld/JDA) dan [**lavaplayer**](https ://github.com/sedmeluq/lavaplayer)!
 
-## Editing
-This bot (and the source code here) might not be easy to edit for inexperienced programmers. The main purpose of having the source public is to show the capabilities of the libraries, to allow others to understand how the bot works, and to allow those knowledgeable about java, JDA, and Discord bot development to contribute. There are many requirements and dependencies required to edit and compile it, and there will not be support provided for people looking to make changes on their own. Instead, consider making a feature request (see the above section). If you choose to make edits, please do so in accordance with the Apache 2.0 License.
+## Mengedit
+Bot ini (dan kode sumbernya di sini) mungkin tidak mudah diedit untuk programmer yang tidak berpengalaman. Tujuan utama dari memiliki sumber publik adalah untuk menunjukkan kemampuan perpustakaan, untuk memungkinkan orang lain memahami cara kerja bot, dan untuk memungkinkan mereka yang memiliki pengetahuan tentang java, JDA, dan pengembangan bot Discord untuk berkontribusi. Ada banyak persyaratan dan dependensi yang diperlukan untuk mengedit dan mengompilasinya, dan tidak akan ada dukungan yang disediakan bagi orang yang ingin membuat perubahan sendiri. Sebagai gantinya, pertimbangkan untuk membuat permintaan fitur (lihat bagian di atas). Jika Anda memilih untuk mengedit, lakukan sesuai dengan Lisensi Apache 2.0.
